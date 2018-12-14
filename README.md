@@ -1,5 +1,7 @@
 # mininetUniProject
-A simulation of a network topology of mobile nodes where a video is being transmitted. RUnning different senarios, user performs network tests.
+A simulation of a network topology of mobile nodes where a video is being transmitted.
+The library used is a fork of mininet, an emulator for Software Defined Networking.
+Running different senarios, user performs network tests.
 
 Project - Walkthrough
     4 cars, 2 eNodeBs, 1 RSU (Road Side Unit), ovs, controller,
