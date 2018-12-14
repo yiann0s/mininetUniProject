@@ -12,16 +12,16 @@ eNodeB1
     Phase 2: V2I communication between car0 and RSU, eNodeB2
     Phase 3: V2I communication between car0 eNodeB2
 
-    Task 1: Run the scenario described in the paper (IEEE-
+   Task 1: Run the scenario described in the paper (IEEE-
 Access 2017 – From theory to Experimental Evaluation:
 Resource Management in Software-Defined Vehicular
 Networks)
 
-    Calculate measurements: Throughput, Packet loss, jitter,
+   Calculate measurements: Throughput, Packet loss, jitter,
 latency for each phase
     Use bonding of interfaces in car0 if you want
     
-    Task 2: Run in the same topology but with one car using
+   Task 2: Run in the same topology but with one car using
 bicasting
     Calculate measurements: Throughput, Packet loss, jitter,
 latency
